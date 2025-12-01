@@ -1,4 +1,4 @@
-# Critical Spares Inference Project
+# Critical Spares Project
 
 This project maps equipment failures to corresponding spare parts using FAISS for similarity search, key-value pairs, unsupervised clustering, and supervised classification. It also generates critical spare parts lists and calculates F1 scores for performance evaluation.
 
