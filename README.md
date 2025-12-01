@@ -33,6 +33,4 @@ This will build models (if not present) and perform inference, saving outputs to
   - `preprocessor.py`: Chunking, embeddings, vectorstores, KNN training
   - `inference.py`: Inference functions
   - `main.py`: Entry point
-- `models/`: Saved models and vectorstores
 - `requirements.txt`: Python dependencies
-- `README.md`: This file
