@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+langchain-openai
+langchain-text-splitters
+PyPDF2
+faiss-cpu
+pymupdf
+tqdm
+python-dotenv
